@@ -1,1 +1,0 @@
-# mkt-place-flask-app
